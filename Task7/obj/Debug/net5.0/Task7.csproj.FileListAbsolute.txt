@@ -1,0 +1,16 @@
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\obj\Debug\net5.0\Task7.csprojAssemblyReference.cache
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\obj\Debug\net5.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\obj\Debug\net5.0\Task7.AssemblyInfoInputs.cache
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\obj\Debug\net5.0\Task7.AssemblyInfo.cs
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\obj\Debug\net5.0\Task7.csproj.CoreCompileInputs.cache
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\bin\Debug\net5.0\Task7.exe
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\bin\Debug\net5.0\Task7.deps.json
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\bin\Debug\net5.0\Task7.runtimeconfig.json
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\bin\Debug\net5.0\Task7.runtimeconfig.dev.json
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\bin\Debug\net5.0\Task7.dll
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\bin\Debug\net5.0\ref\Task7.dll
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\bin\Debug\net5.0\Task7.pdb
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\obj\Debug\net5.0\Task7.dll
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\obj\Debug\net5.0\ref\Task7.dll
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\obj\Debug\net5.0\Task7.pdb
+C:\Users\103475494\Projects\FunctionsMethodsTask\Task7\obj\Debug\net5.0\Task7.genruntimeconfig.cache
